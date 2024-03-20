@@ -56,5 +56,5 @@ My interest in providing solutions to problems has led me to develop a passion f
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/iamlene/Analysis-lab/edit/main">Analysis lab</a>
 - SOC Automation Project
